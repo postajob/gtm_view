@@ -1,5 +1,5 @@
 homepage: "https://postajob.io/"
-documentation: "https://postajob.io/gtm"
+documentation: "https://www.postajob.io/google-tag-manager-integration"
 versions:
   - sha: e9d7b7eb8272c35b3316248e5a0a211a4fac9a39
     changeNotes: Initial release.
