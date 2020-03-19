@@ -2,7 +2,7 @@ homepage: "https://postajob.io"
 documentation: "https://www.postajob.io/google-tag-manager-integration"
 versions:
   # Latest version
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874c
+  - sha: 83c4a229627d8f17822bedb9e291f4878397d420
     changeNotes: |2
       Fix test
       Fix documentation
