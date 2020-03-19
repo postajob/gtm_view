@@ -1,4 +1,4 @@
-___TERMS_OF_SERVICE___
+﻿___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Postajob Tag",
- "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -56,6 +56,8 @@ function onSuccess() {
 
 const url = "https://postajob.s3.eu-west-3.amazonaws.com/jstag.js";
 injectScript(url, onSuccess ,data.gtmOnFailure);
+
+//https://www.postajob.io/google-tag-manager-integration
 
 
 ___WEB_PERMISSIONS___
@@ -269,6 +271,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 16/03/2020, 10:18:27
+Created on 19/03/2020, 23:10:31
 
 
